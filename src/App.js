@@ -43,30 +43,3 @@ const App = () => {
 }
 export default App
 
-// Interview Practice Questions
-
-// What are three (3) syntax difference between HTML and JSX?
-   //class vs className
-   //inline styles
-   //self-closing tags
-
-// What is yarn? What file(s) are modified when you run the command yarn in your terminal?
-   //It is a popular package manager for Node.js applications.
-   //When I run it, it installs package.json file so that the source can be used and shared.
-   //It also updates yarn.lock file.
-
-// What is the difference between state values and props in React?
-   //State is used when we set a initial value for the variable with using useState.
-   //It is changable.
-   //Props is used when we want to use the function over and over again with same information by creating another JS file under SCR.
-   //It is unchangable meaning that once it is created on separate file, it can only be changed on the created file, not on app.js file.
-
-// STRETCH (optional): What is the difference between a div tag and a span tag?
-
-
-
-// Looking Ahead: Terms for Next Unit
-
-// Object-oriented programming: OOP is a programming paradigm that was created to deal with the complexity of large software systems. 
-// Ruby: Ruby is an object-oriented language. Ruby is so object-oriented that a common Ruby mantra is: "Everything is an object."(I don't understand what it means)
-// Ruby Hashes: A hash is a collection of unique keys and their values.
