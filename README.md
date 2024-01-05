@@ -38,20 +38,27 @@ PRs should be posted _before_ class begins on Tuesday, January 2, 2024.
 ### Interview Practice Questions
 
 1. What are three (3) syntax difference between HTML and JSX?
-
+   //class vs className
+   //inline styles
+   //self-closing tags
 2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
-
+  //It is a popular package manager for Node.js applications.
+   //When I run it, it installs package.json file so that the source can be used and shared.
+   //It also updates yarn.lock file.
 3. What is the difference between state values and props in React?
-
+   //State is used when we set a initial value for the variable with using useState.
+   //It is changable.
+   //Props is used when we want to use the function over and over again with same information by creating another JS file under SCR.
+   //It is unchangable meaning that once it is created on separate file, it can only be changed on the created file, not on app.js file.
 4. STRETCH (optional): What is the difference between a div tag and a span tag?
 
 ### Looking Ahead: Terms for Next Unit
 
-1. Object-oriented programming:
+1. Object-oriented programming:OOP is a programming paradigm that was created to deal with the complexity of large software systems. 
 
-2. Ruby:
+2. Ruby:Ruby is an object-oriented language. Ruby is so object-oriented that a common Ruby mantra is: "Everything is an object."(I don't understand what it means)
 
-3. Ruby Hashes:
+3. Ruby Hashes:A hash is a collection of unique keys and their values.
 
 ---
 
